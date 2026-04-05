@@ -122,5 +122,4 @@ DELETE /api/students/1
 
 ## GitHub Repository
 
-https://github.com/YOUR_USERNAME/ala3
-# wdf3
+[/mahmadhadi/wdf3](https://github.com/MahmadHadi/wdf3)
